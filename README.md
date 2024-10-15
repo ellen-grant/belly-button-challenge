@@ -68,7 +68,7 @@ Ensure you have the following software:
 
 3. **Microbiome and Hygiene Habits**: If data on individuals' hygiene habits were available, one could explore potential relationships between bacterial diversity and factors like shower frequency or use of antibacterial products. For instance, does more frequent washing reduce the diversity of the microbiome, or do certain species thrive despite regular hygiene practices?
 
-4. **Outliers and Rare Bacteria**: Identifying outliers in the dataset — individuals with particularly high or low bacterial diversity — could offer clues about environmental or health-related factors influencing microbial communities. Rare bacteria found in only a few individuals might be linked to unique environmental exposures or health conditions.
+4. **Outliers and Rare Bacteria**: Identifying outliers in the dataset, individuals with particularly high or low bacterial diversity, could offer clues about environmental or health-related factors influencing microbial communities. Rare bacteria found in only a few individuals might be linked to unique environmental exposures or health conditions.
 
 5. **Bacterial Functions and Health Implications**: Although this dashboard focuses on bacterial taxonomy, future analysis could explore the functions of specific bacteria in the microbiome. Understanding whether these bacteria contribute to health or disease could have implications for future research into gut health, immune function, and more.
 
