@@ -5,6 +5,10 @@
 ## Overview
 This project presents an interactive dashboard that visualizes the bacterial diversity found in human belly buttons. The dataset includes information about various Operational Taxonomic Units (OTUs) identified through DNA sequencing from samples collected from different individuals. The dashboard allows users to explore the top 10 bacterial species (OTUs) found in a sample and visualize the bacterial cultures per sample using a bubble chart.
 
+Dataset:
+Belly Button Biodiversity dataset
+http://robdunnlab.com/projects/belly-button-biodiversity/
+
 This dashboard provides:
 1. A dropdown menu to select an individual's sample ID.
 2. A **horizontal bar chart** that displays the top 10 bacterial OTUs found in the selected individual.
