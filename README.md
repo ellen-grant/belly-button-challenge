@@ -66,5 +66,8 @@ Ensure you have the following software:
 
 5. **Bacterial Functions and Health Implications**: Although this dashboard focuses on bacterial taxonomy, future analysis could explore the functions of specific bacteria in the microbiome. Understanding whether these bacteria contribute to health or disease could have implications for future research into gut health, immune function, and more.
 
+## Full Dashboard:
+![Dashboard Placeholder](bellybutton/dashboard.png)
+
 ## References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/.
