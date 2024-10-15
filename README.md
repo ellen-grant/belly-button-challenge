@@ -1,5 +1,7 @@
 #  Belly Button Biodiversity Dashboard
 
+![dashboard](https://github.com/user-attachments/assets/b120a6b8-ff68-4e77-9b02-35a4db91dd1a)
+
 ## Overview
 This project presents an interactive dashboard that visualizes the bacterial diversity found in human belly buttons. The dataset includes information about various Operational Taxonomic Units (OTUs) identified through DNA sequencing from samples collected from different individuals. The dashboard allows users to explore the top 10 bacterial species (OTUs) found in a sample and visualize the bacterial cultures per sample using a bubble chart.
 
@@ -66,8 +68,6 @@ Ensure you have the following software:
 
 5. **Bacterial Functions and Health Implications**: Although this dashboard focuses on bacterial taxonomy, future analysis could explore the functions of specific bacteria in the microbiome. Understanding whether these bacteria contribute to health or disease could have implications for future research into gut health, immune function, and more.
 
-## Full Dashboard:
-![Dashboard Placeholder](/bellybutton/dashboard.png)
 
 ## References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/.
